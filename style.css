@@ -1,0 +1,16 @@
+.h1 {
+    background: aquamarine;
+}
+
+.card-body {
+    align-items: center;
+}
+
+.card-text {
+    align-items: center;
+}
+
+.btn-primary {
+    background-color: gold;
+    border-color: gold;
+}
